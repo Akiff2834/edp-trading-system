@@ -16,5 +16,5 @@ The system simulates essential trading operations such as price updates, buy/sel
 ## **🚀 Installation & Running the Project:**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Akif2834/edp-trading-system.git
+   git clone https://github.com/Akiff2834/edp-trading-system.git
    cd edp-trading-system
